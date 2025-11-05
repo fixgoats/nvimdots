@@ -1,0 +1,16 @@
+vim.opt.expandtab = true
+vim.opt.shiftwidth = 2
+vim.opt.smartindent = true
+vim.opt.tabstop = 2
+vim.opt.softtabstop = 2
+vim.opt.splitkeep = "screen"
+vim.opt.number = true
+vim.opt.relativenumber = true
+vim.opt.smartcase = true
+vim.opt.signcolumn = "yes"
+vim.opt.ruler = false
+vim.opt.splitbelow = true
+vim.opt.splitright = true
+vim.opt.timeoutlen = 400
+vim.opt.updatetime = 250
+vim.opt.undofile = true

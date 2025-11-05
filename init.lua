@@ -1,0 +1,6 @@
+require("config.keymaps")
+require("config.lazy")
+require("config.looks")
+require("config.lsp")
+require("colorselector")
+require("config.color")
