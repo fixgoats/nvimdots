@@ -23,7 +23,7 @@ return {
           },
         },
         keymap = {
-          ["<C-f>"] = {},
+          preset = 'enter',
         },
         cmdline = {
           enabled = false,

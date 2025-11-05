@@ -14,6 +14,8 @@ function ShowMenu(opts, cb)
     col = math.floor((vim.o.columns - width) / 2),
     minwidth = width,
     minheight = height,
+    maxwidth = width,
+    maxheight = height,
     borderchars = borderchars,
     callback = cb,
   })

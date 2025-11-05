@@ -1,1 +1,1 @@
-vim.cmd("colorscheme thorn")
+vim.cmd("colorscheme kanagawa")
